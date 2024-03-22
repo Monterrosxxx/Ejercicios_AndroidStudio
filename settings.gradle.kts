@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "app edad"
 include(":app")
+include(":app")
  
